@@ -1,0 +1,8 @@
+diff a/README.md b/README.md	(rejected hunks)
+@@ -1,4 +1,4 @@
+ # h1
+ ## h2
+ - ol li
+-- 
+\ No newline at end of file
++- ul li
